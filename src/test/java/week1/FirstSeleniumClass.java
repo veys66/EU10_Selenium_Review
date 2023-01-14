@@ -19,6 +19,7 @@ public class FirstSeleniumClass {
 
         WebDriver driverEdge = new EdgeDriver();
 
+
         driverEdge.get("https://www.google.com");
     }
 }
